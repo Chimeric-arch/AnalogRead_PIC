@@ -1,1 +1,3 @@
-# AnalogRead_PIC
+- Conversion AD
+- Microcontroller PIC16F877A
+- Daniel Gier Arndt
